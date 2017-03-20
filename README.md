@@ -61,7 +61,8 @@ Zapytania mapkowe.
 curl localhost:9200/.... | jq .hits.hits[] | przerabiamy na GEOJson / TopoJSON
 ```
 
-... [mapka-es](mapki-es)
+... [mapka-es](https://romety2.github.io/nosql/) 
+... [mapka-es](https://romety2.github.io/nosql/) 
 
 
 ## PostgreSQL
