@@ -4,7 +4,7 @@ Wybrany zbiór danych - [NHS Postcode Directory (Latest) Centroids](https://data
 
 (zaliczenie)
 
-- [ ] EDA
+- [ ] [EDA](https://romety2.github.io/nosql/) 
 - [ ] Aggregation Pipeline
 
 (egzamin)
@@ -62,8 +62,6 @@ curl localhost:9200/.... | jq .hits.hits[] | przerabiamy na GEOJson / TopoJSON
 ```
 
 ... [mapka-es](mapki-es)
-
-... [mapka-es](https://romety2.github.io/nosql/) 
 
 
 ## PostgreSQL
